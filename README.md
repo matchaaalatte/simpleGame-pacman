@@ -1,1 +1,1 @@
-# simple-game--pacman
+simpleGame-pacman
